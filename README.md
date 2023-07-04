@@ -1,2 +1,2 @@
 # tanishq-multidiseasepredictionction
-An integretade Ai-Ml platform  to predict all diseases such as heartattack,diabetes,parkinsons,brainstroke,etc
+An integrated Ai-Ml platform  to predict all diseases such as heartattack,diabetes,parkinsons,brainstroke,etc
